@@ -16,6 +16,11 @@ int main(void)
 // Initialize the GIO module
 gioInit();
 
+
+//if you can read this, it worked
+
+
+    
     //    // Set the direction for GIO Port B: Pin 6 as output (0x40 = 01000000b)
     gioSetDirection(gioPORTB, 0x40);
     // Set GIO Port B, Pin 6 to high (1)
