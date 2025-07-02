@@ -9,7 +9,7 @@ int freq;
 int period;
 void setup()
 {
-  
+  //pq tengo un programa de un servo aqui?
   freq=1/period;
   
 
